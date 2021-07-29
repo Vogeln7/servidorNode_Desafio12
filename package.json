@@ -1,0 +1,25 @@
+{
+  "name": "servidornode_desafio10",
+  "version": "1.0.0",
+  "description": "Servidor Node con Express y HBS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vogeln7/servidorNode_Desafio10.git"
+  },
+  "author": "vn7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vogeln7/servidorNode_Desafio10/issues"
+  },
+  "homepage": "https://github.com/Vogeln7/servidorNode_Desafio10#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}

@@ -1,2 +1,3 @@
 # servidorNode_Desafio12
-Servidor node con websockets
+Servidor de Node con Websockets y HBS como motor de plantillas.
+
